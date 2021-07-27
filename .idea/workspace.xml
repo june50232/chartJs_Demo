@@ -20,7 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5a8bc01-a30a-4efc-a0db-387c84bf310d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiLineChart/MultiLineChart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiLineChart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/SCHC.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/VCIT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/portfolio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/MultiLineChart.stories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/stories" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
@@ -61,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625060708105</updated>
       <workItem from="1625060711687" duration="4877000" />
+      <workItem from="1627379855712" duration="1371000" />
     </task>
     <servers />
   </component>
@@ -77,8 +87,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="434" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627381178397">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="434" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1627381178397" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625066879740">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
