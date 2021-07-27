@@ -2,7 +2,19 @@
   "name": "intro-storybook-react-template",
   "version": "0.1.0",
   "description": "Starter template to get up and running quickly with React and Storybook",
-  "author": "Chromatic <https://chromatic.com/>",
+  "author": "June",
+  "homepage": "https://june50232.github.io/chartJs_Demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public",
+    "predeploy": "npm run build-storybook",
+    "deploy-storybook": "gh-pages -d storybook-static",
+    "build-storybook": "build-storybook"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chromaui/intro-storybook-react-template"
@@ -23,14 +35,6 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
     "d3": "5.16.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
   },
   "eslintConfig": {
     "extends": [
